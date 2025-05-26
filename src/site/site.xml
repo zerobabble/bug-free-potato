@@ -17,6 +17,17 @@
 		<links>
 			<item name="Maven" href="http://maven.apache.org/" />
 		</links>
+		<menu name="Overview">
+			<item name="Introduction" href="index.html" />
+			<item name="Markdown Cheat Sheet" href="markdown-cheat-sheet.html" />
+			<item name="Markup" href="markup.html" />
+			<item name="" href="" />
+			<item name="" href="" />
+			<item name="" href="" />
+			<item name="" href="" />
+		</menu>
 		<menu ref="reports" />
+		<menu ref="parent" />
+		<menu ref="modules" />
 	</body>
 </project>
